@@ -1,0 +1,9 @@
+E:\Yogesh\SEO\Yogihosting\new\onion-architecture\OnionApp\Domain\bin\Debug\netstandard2.1\Domain.deps.json
+E:\Yogesh\SEO\Yogihosting\new\onion-architecture\OnionApp\Domain\bin\Debug\netstandard2.1\Domain.dll
+E:\Yogesh\SEO\Yogihosting\new\onion-architecture\OnionApp\Domain\bin\Debug\netstandard2.1\Domain.pdb
+E:\Yogesh\SEO\Yogihosting\new\onion-architecture\OnionApp\Domain\obj\Debug\netstandard2.1\Domain.csprojAssemblyReference.cache
+E:\Yogesh\SEO\Yogihosting\new\onion-architecture\OnionApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfoInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\onion-architecture\OnionApp\Domain\obj\Debug\netstandard2.1\Domain.AssemblyInfo.cs
+E:\Yogesh\SEO\Yogihosting\new\onion-architecture\OnionApp\Domain\obj\Debug\netstandard2.1\Domain.csproj.CoreCompileInputs.cache
+E:\Yogesh\SEO\Yogihosting\new\onion-architecture\OnionApp\Domain\obj\Debug\netstandard2.1\Domain.dll
+E:\Yogesh\SEO\Yogihosting\new\onion-architecture\OnionApp\Domain\obj\Debug\netstandard2.1\Domain.pdb
