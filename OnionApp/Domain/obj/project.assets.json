@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Yogesh\\SEO\\Yogihosting\\new\\onion-architecture\\OnionApp\\Domain\\Domain.csproj",
+      "projectUniqueName": "E:\\Yogesh\\SEO\\Yogihosting\\codes-new\\Hosting\\OnionApp\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "E:\\Yogesh\\SEO\\Yogihosting\\new\\onion-architecture\\OnionApp\\Domain\\Domain.csproj",
+      "projectPath": "E:\\Yogesh\\SEO\\Yogihosting\\codes-new\\Hosting\\OnionApp\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\Avita\\.nuget\\packages\\",
-      "outputPath": "E:\\Yogesh\\SEO\\Yogihosting\\new\\onion-architecture\\OnionApp\\Domain\\obj\\",
+      "outputPath": "E:\\Yogesh\\SEO\\Yogihosting\\codes-new\\Hosting\\OnionApp\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Avita\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
