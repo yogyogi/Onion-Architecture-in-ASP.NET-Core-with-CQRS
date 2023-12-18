@@ -1,6 +1,8 @@
 # Onion Architecture in ASP.NET Core with CQRS
 Here I implement Onion Architecture in ASP.NET Core with CQRS. It was created by Computer Engineer Jeffrey Palermo for creating app which are highly maintainable and loosely coupled. This architecture somewhat resembles the layers which can be seen on cutting an onion vegetable. You can separate the layers of onion very easily and eat them in your salads. In the same way the layers of Onion Architecture are separatable as they are loosely coupled, and this gives a highly testable architecture.
 
+## This is .NET 8.0 version
+
 Read the entire article here - https://www.hosting.work/onion-architecture-aspnet-core-cqrs/
 
 # Tutorial Contents
